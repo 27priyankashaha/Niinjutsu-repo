@@ -29,7 +29,7 @@
 					"Post": "AssistantManager"
 				}
 			],
-			"coding": [{
+			"Coding": [{
 					"Name": "S. Gupta",
 					"Email": "gupta2325@softlinetech.com",
 					"Post": "HeadOfDepartment"
@@ -37,7 +37,7 @@
 				{
 					"Name": "N. K. Sharma",
 					"Email": "sharma@softlinetech.com",
-					"post": "Manager"
+					"Post": "Manager"
 				},
 				{
 					"Name": "K. Ravi",
@@ -46,7 +46,7 @@
 				}
 			],
 
-			"testing": [{
+			"Testing": [{
 					"Name": "S. Pooja",
 					"Email": "pooja2325@softlinetech.com",
 					"Post": "HeadOfDepartment"
